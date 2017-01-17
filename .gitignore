@@ -1,0 +1,16 @@
+
+# Created by https://www.gitignore.io/api/visualstudiocode,vagrant
+
+### project ###
+
+
+### VisualStudioCode ###
+.vscode
+jsconfig.json
+
+
+### Vagrant ###
+.vagrant/
+
+### Npm ###
+node_modules/
