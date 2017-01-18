@@ -3,7 +3,7 @@
 import React, { Component, PropTypes } from "react";
 import { connect } from "react-redux";
 
-import AddTodo from "../containers/AddTodo";
+import AddTodo from "../components/AddTodo";
 import TodoList from "./TodoList";
 
 class App extends Component {
